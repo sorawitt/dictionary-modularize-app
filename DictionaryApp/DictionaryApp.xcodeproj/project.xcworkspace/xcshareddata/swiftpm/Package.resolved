@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DictionaryAppKit",
+        "repositoryURL": "/Users/sorawit/Documents/projects/DictionaryApp/DictionaryAppKit",
+        "state": {
+          "branch": "master",
+          "revision": "3ccfc9e43b4b125ce921da88dc244e761e8f3f92",
+          "version": null
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "b4307ba0b6425c0ba4178e138799946c3da594f8",
+          "version": "6.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
